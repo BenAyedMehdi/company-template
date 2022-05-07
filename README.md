@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-# company-template 
-=======
-# company-template home
->>>>>>> home
+
+# company-template about
